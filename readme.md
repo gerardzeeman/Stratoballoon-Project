@@ -9,7 +9,7 @@ In this repository you can find our Arduino files.
 
  - [Willem Hoorn](?)
  - [Gerard Zeeman](https://github.com/gerardzeeman)
- - [Jevan Kolk](https://github.com/elektryk)
+ - [Jevan Kolk](?)
 
 ### Screenshot
 
