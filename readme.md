@@ -26,6 +26,6 @@ Our project is licensed under the [GNU licence.](link needed!)
 ## Sponsor
 We are very gleesome with new sponsors. In the future here will be a "donate now" option available.
 Our sponsors right now:
- - Mieni(http://www.mieni.nl/)
- - Neerlandia B.V. URK(http://www.neerlandia.com/)
- - Hakvoort Optiek URK(http://www.hakvoortoptiek.nl/)
+ - [Mieni](http://www.mieni.nl/)
+ - [Neerlandia B.V. URK](http://www.neerlandia.com/)
+ - [Hakvoort Optiek URK](http://www.hakvoortoptiek.nl/)
