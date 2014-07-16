@@ -3,13 +3,13 @@ Our 'profielwerkstuk' for school. We're trying to get a weather balloon in the s
 
 Our blog can be found on the website of MienI in the future.
 
-In this repository you can find our Arduino files an other stuff.
+In this repository you can find our Arduino files and other stuff.
 
 ### Contributions
 
  - [Willem Hoorn](https://github.com/Willemhoorn)
  - [Gerard Zeeman](https://github.com/gerardzeeman)
- - [Jevan Kolk](?)
+ - [Jevan Kolk](http://uploadenfoto.nl/show-image.php?id=9a9571bb938db73717099c2eb7708968)
 
 ### Screenshot
 
