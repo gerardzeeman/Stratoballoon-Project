@@ -21,4 +21,4 @@ In this repository you can find our Arduino files.
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`!
 
 ## License
-Our project is licensed under the[GNU licence.](link needed!)
+Our project is licensed under the [GNU licence.](link needed!)
