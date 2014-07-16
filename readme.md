@@ -1,13 +1,13 @@
 # Stratballoon 35.0 Project
 Our 'profielwerkstuk' for school. We're trying to get a weather balloon in the stratosphere to measure temperature, pressure etc.
 
-Our blog can be found on the website of IenI in the future.
+Our blog can be found on the website of MienI in the future.
 
-In this repository you can find our Arduino files.
+In this repository you can find our Arduino files an other stuff
 
 ### Contributions
 
- - [Willem Hoorn](?)
+ - [Willem Hoorn](https://github.coom/Willemhoorn)
  - [Gerard Zeeman](https://github.com/gerardzeeman)
  - [Jevan Kolk](?)
 
