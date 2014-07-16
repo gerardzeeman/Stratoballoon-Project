@@ -3,7 +3,7 @@ Our 'profielwerkstuk' for school. We're trying to get a weather balloon in the s
 
 Our blog can be found on the website of MienI in the future.
 
-In this repository you can find our Arduino files an other related stuff.
+In this repository you can find our Arduino files an other stuff
 
 ### Contributions
 
@@ -22,3 +22,10 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 
 ## License
 Our project is licensed under the [GNU licence.](link needed!)
+
+## Sponsor
+We are very gleesome with new sponsors. In the future is here an "donate now" option available.
+At the moment are our sponsors:
+- Mieni
+- Neerlandia B.V. URK
+- Hakvoort Optiek URK
