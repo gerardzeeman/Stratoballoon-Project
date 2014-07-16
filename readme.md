@@ -21,7 +21,7 @@ In this repository you can find our Arduino files an other stuff.
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`!
 
 ## License
-Our project is licensed under the [GNU licence.](link needed!)
+Our project is licensed under the [GNU licence.](https://github.com/gerardzeeman/Stratoballoon-Project/blob/master/license.txt)
 
 ## Sponsor
 We are very gleesome to get some new sponsors. In the future there will be a "donate now" option available.
