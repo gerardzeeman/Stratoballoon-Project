@@ -24,8 +24,8 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 Our project is licensed under the [GNU licence.](https://github.com/gerardzeeman/Stratoballoon-Project/blob/master/license.txt)
 
 ## Sponsor
-We are very gleesome to get some new sponsors. In the future there will be a "donate now" option available.
-Our sponsors right now:
+We are very gleesome to get some new sponsors. In the future there will be a "donate now" option available. We need your help!
+<br>Our sponsors right now:
  - [Mieni](http://www.mieni.nl/)
  - [Neerlandia B.V. URK](http://www.neerlandia.com/)
  - [Hakvoort Optiek URK](http://www.hakvoortoptiek.nl/)
